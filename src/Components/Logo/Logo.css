@@ -1,0 +1,14 @@
+div {
+    margin: 10px;
+}
+.Tilt{
+    border: 1px solid black;
+    padding: 6px;
+    box-shadow: 1px 0px 10px 2px rgba(0, 0, 0, 0.39);
+    background: linear-gradient(to right, rgb(204, 0, 255), rgb(0, 162, 255));
+
+}
+
+img {
+    padding-top: 12px;
+}

@@ -1,0 +1,39 @@
+div p {
+    font-size: 1.5rem;
+    margin: 0px;
+}
+.form{
+    width: 700px;
+    background-color:#001;
+    background-image: radial-gradient(white 10%, transparent 16%),radial-gradient(white 12%, transparent 16%);
+    background-size: 60px 60px;
+    background-position: 0 0, 30px 30px;
+}
+.inputplace{
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 0px 10px 2px rgba(0, 0, 0, 0.39);
+}
+.input{
+    font-size: 100%;
+    padding: 5px;
+    width: 70%;
+    text-align: center;
+}
+.button{
+    display: inline-block;
+    width: 30%;
+    font-size: 120%;
+    outline: 0px;
+    border: 1px solid rgb(51, 51, 51);
+    color: white;
+    background: rgb(174, 0, 255);
+    transition: all 0.2s ease-out;
+}
+.button:hover{
+    transform: scale(1.07);
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.582);
+}
+.button:active{
+    transform: scale(0.9);
+}
