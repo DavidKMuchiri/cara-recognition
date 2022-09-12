@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cara-recognition/static/css/main.329063f6.chunk.css",
+    "main.js": "/cara-recognition/static/js/main.0ce57832.chunk.js",
+    "main.js.map": "/cara-recognition/static/js/main.0ce57832.chunk.js.map",
+    "runtime-main.js": "/cara-recognition/static/js/runtime-main.11536e76.js",
+    "runtime-main.js.map": "/cara-recognition/static/js/runtime-main.11536e76.js.map",
+    "static/js/2.615e9541.chunk.js": "/cara-recognition/static/js/2.615e9541.chunk.js",
+    "static/js/2.615e9541.chunk.js.map": "/cara-recognition/static/js/2.615e9541.chunk.js.map",
+    "static/js/3.e42e9b1d.chunk.js": "/cara-recognition/static/js/3.e42e9b1d.chunk.js",
+    "static/js/3.e42e9b1d.chunk.js.map": "/cara-recognition/static/js/3.e42e9b1d.chunk.js.map",
+    "index.html": "/cara-recognition/index.html",
+    "static/css/main.329063f6.chunk.css.map": "/cara-recognition/static/css/main.329063f6.chunk.css.map",
+    "static/js/2.615e9541.chunk.js.LICENSE.txt": "/cara-recognition/static/js/2.615e9541.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11536e76.js",
+    "static/js/2.615e9541.chunk.js",
+    "static/css/main.329063f6.chunk.css",
+    "static/js/main.0ce57832.chunk.js"
+  ]
+}
